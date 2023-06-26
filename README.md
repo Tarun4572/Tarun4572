@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Tarun Pottigari</h1>
 <h3 align="center">👋 Welcome to my GitHub profile! I'm a recent B.Tech graduate with a strong passion for software development and a problem solver with a passion for competitive coding and Data Structures and Algorithms. Throughout my academic journey, I've gained a solid foundation in computer science, honing my skills in various programming languages and technologies. I'm eager to leverage my knowledge and expertise to build innovative solutions. My GitHub repositories showcase my projects and highlight my ability to translate concepts into practical applications.</h3>
 
