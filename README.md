@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hi there, I'm Tarun Pottigari<br>I'm a passionate full stack developer with a knack for crafting robust and scalable web applications.
-Resume: https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1fi9tM-CIQR-WrUMBTKbQo5MptMpUGrjb%2Fview%3Fusp%3Ddrivesdk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-OGRhNzhlMGMtMGFiYy00MTI0LTg1OWMtY2QwMmNhZTk0YTAwXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLzuSytEkQrSM%2BK0Mrkj7tg%3D%3D
 
 
 ## 🌐 Socials:
