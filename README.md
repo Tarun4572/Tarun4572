@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there, I'm Tarun Pottigari<br>I'm a passionate full stack developer with a knack for crafting robust and scalable web applications.
+👋 Hi there, I'm Tarun Pottigari<br>I'm a passionate full-stack developer with a knack for crafting robust and scalable web applications.
+Here's My Resume: https://drive.google.com/file/d/1fi9tM-CIQR-WrUMBTKbQo5MptMpUGrjb/view?usp=drive_link
 
 
 ## 🌐 Socials:
